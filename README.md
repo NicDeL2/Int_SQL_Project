@@ -175,7 +175,7 @@ ORDER BY
 
 2. **Cohort Performance Strategy** (Customer Revenue by Cohort)
 	- Target 2022-2024 cohorts with personalized re-engagement offers
-	- Implement loyalty/subscription progrmas to stabilize revenue fluctuations
+	- Implement loyalty/subscription programs to stabilize revenue fluctuations
 	- Apply successful strategies from high-spending 2016-2018 cohorts to newer customers
 
 3. **Retention & Churn Prevention** (Customer Retention)
